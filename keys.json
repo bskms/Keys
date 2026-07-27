@@ -1,0 +1,123 @@
+{
+  "FreemiumKeys": [
+    {
+      "Key": "FREE-KEY-1111",
+      "Expiration": 1785175200,
+      "Link": "https://work.ink/2FOQ/link-number-1",
+      "Sequence": 1
+    },
+    {
+      "Key": "FREE-KEY-2222",
+      "Expiration": 1785261600,
+      "Link": "https://work.ink/2FOQ/link-number-2",
+      "Sequence": 2
+    },
+    {
+      "Key": "FREE-KEY-3333",
+      "Expiration": 1785348000,
+      "Link": "https://work.ink/2FOQ/link-number-3",
+      "Sequence": 3
+    },
+    {
+      "Key": "FREE-KEY-4444",
+      "Expiration": 1785434400,
+      "Link": "https://work.ink/2FOQ/link-number-4",
+      "Sequence": 4
+    },
+    {
+      "Key": "FREE-KEY-5555",
+      "Expiration": 1785520800,
+      "Link": "https://work.ink/2FOQ/link-number-5",
+      "Sequence": 5
+    },
+    {
+      "Key": "FREE-KEY-6666",
+      "Expiration": 1785607200,
+      "Link": "https://work.ink/2FOQ/link-number-6",
+      "Sequence": 6
+    },
+    {
+      "Key": "FREE-KEY-7777",
+      "Expiration": 1785693600,
+      "Link": "https://work.ink/2FOQ/link-number-7",
+      "Sequence": 7
+    }
+  ],
+  "PaidKeys": {
+    "3DayKeys": [
+      {
+        "Key": "PAID-3D-XXXX",
+        "Expiration": 1785434400,
+        "WhitelistedUsers": ["123456789", "987654321"],
+        "DiscordUser": "CustomerOne"
+      }
+    ],
+    "7DayKeys": [
+      {
+        "Key": "PAID-7D-YYYY",
+        "Expiration": 1785780000,
+        "WhitelistedUsers": ["24681012"],
+        "DiscordUser": "CustomerTwo"
+      }
+    ],
+    "30DayKeys": [
+      {
+        "Key": "PAID-30D-ZZZZ",
+        "Expiration": 1787767200,
+        "WhitelistedUsers": ["135792468"],
+        "DiscordUser": "CustomerThree"
+      }
+    ],
+    "90DayKeys": [
+      {
+        "Key": "PAID-90D-AAAA",
+        "Expiration": 1792951200,
+        "WhitelistedUsers": ["555555555"],
+        "DiscordUser": "CustomerFour"
+      }
+    ],
+    "1YearKeys": [
+      {
+        "Key": "PAID-1Y-BBBB",
+        "Expiration": 1816711200,
+        "WhitelistedUsers": ["999999999"],
+        "DiscordUser": "CustomerFive"
+      }
+    ],
+    "PermanentKeys": [
+      {
+        "Key": "PERM-CCCC",
+        "WhitelistedUsers": ["111222333", "444555666"],
+        "DiscordUser": "PermUser"
+      }
+    ],
+    "MainCCKeys": [
+      {
+        "Key": "MAINCC-DDDD",
+        "WhitelistedUsers": ["777888999"],
+        "DiscordUser": "ContentCreatorOne"
+      }
+    ],
+    "TesterKeys": [
+      {
+        "Key": "TEST-EEEE",
+        "WhitelistedUsers": ["1010101010"],
+        "DiscordUser": "QA_Tester"
+      }
+    ],
+    "DevsKeys": [
+      {
+        "Key": "DEV-FFFF",
+        "WhitelistedUsers": ["2020202020", "3030303030"],
+        "DiscordUser": "DeveloperName"
+      }
+    ],
+    "OwnerKeys": [
+      {
+        "Key": "OWNER-ROOT",
+        "WhitelistedUsers": ["4040404040"],
+        "DiscordUser": "OwnerDiscord"
+      }
+    ]
+  }
+}
