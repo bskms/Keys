@@ -46,48 +46,48 @@
   "PaidKeys": {
     "3DayKeys": [
       {
-        "Key": "PAID-3D-XXXX",
-        "Expiration": 1785434400,
-        "WhitelistedUsers": ["123456789", "987654321"],
+        "Key": "PAID3D",
+        "Expiration": 1785531540,
+        "WhitelistedUsers": ["11357962972", "987654321"],
         "DiscordUser": "CustomerOne"
       }
     ],
     "7DayKeys": [
       {
-        "Key": "PAID-7D-YYYY",
-        "Expiration": 1785780000,
-        "WhitelistedUsers": ["24681012"],
+        "Key": "PAID7D",
+        "Expiration": 1785877140,
+        "WhitelistedUsers": ["11357962972"],
         "DiscordUser": "CustomerTwo"
       }
     ],
     "30DayKeys": [
       {
-        "Key": "PAID-30D-ZZZZ",
-        "Expiration": 1787767200,
-        "WhitelistedUsers": ["135792468"],
+        "Key": "PAID30D",
+        "Expiration": 1787864340,
+        "WhitelistedUsers": ["11357962972"],
         "DiscordUser": "CustomerThree"
       }
     ],
     "90DayKeys": [
       {
-        "Key": "PAID-90D-AAAA",
-        "Expiration": 1792951200,
-        "WhitelistedUsers": ["555555555"],
+        "Key": "PAID90D",
+        "Expiration": 1793048340,
+        "WhitelistedUsers": ["11357962972"],
         "DiscordUser": "CustomerFour"
       }
     ],
     "1YearKeys": [
       {
-        "Key": "PAID-1Y-BBBB",
-        "Expiration": 1816711200,
-        "WhitelistedUsers": ["999999999"],
+        "Key": "PAID1Y",
+        "Expiration": 1816808340,
+        "WhitelistedUsers": ["11357962972"],
         "DiscordUser": "CustomerFive"
       }
     ],
     "PermanentKeys": [
       {
-        "Key": "PERM-CCCC",
-        "WhitelistedUsers": ["111222333", "444555666"],
+        "Key": "PERM",
+        "WhitelistedUsers": ["11357962972", "444555666"],
         "DiscordUser": "PermUser"
       }
     ],
@@ -114,9 +114,9 @@
     ],
     "OwnerKeys": [
       {
-        "Key": "OWNER-ROOT",
-        "WhitelistedUsers": ["4040404040"],
-        "DiscordUser": "OwnerDiscord"
+        "Key": "KMS-OWNER-PRIVATE",
+        "WhitelistedUsers": ["11357962972"],
+        "DiscordUser": "Aquan"
       }
     ]
   }
